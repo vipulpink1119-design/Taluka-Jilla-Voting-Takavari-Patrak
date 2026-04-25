@@ -1,6 +1,6 @@
 {
   "name": "ચૂંટણી મતદાન ટકાવારી",
-  "short_name": "મતદાન ટકા",
+  "short_name": "પ્રોગ્રેસિva-મત-ટકા",
   "description": "Election Voting Calculator - ચૂંટણી મતદાન ટકાવારી કેલ્ક્યુલેટર",
   "start_url": "./index.html",
   "display": "standalone",
