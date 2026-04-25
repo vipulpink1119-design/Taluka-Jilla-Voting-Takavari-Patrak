@@ -1,4 +1,4 @@
-const CACHE = 'election-v1';
+const CACHE = 'election-v2';
 const ASSETS = [
   './index.html',
   './manifest-2.json',
