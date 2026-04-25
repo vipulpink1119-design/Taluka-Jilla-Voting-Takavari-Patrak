@@ -495,7 +495,7 @@ window.onload = () => {
   const saved = localStorage.getItem(STORAGE_KEY);
   if(saved){ try{ restoreData(JSON.parse(saved)); }catch(e){ calculate(); } } else { calculate(); }
   document.getElementById('langSel').addEventListener('change', changeLang);
-  if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
+  if('serviceWorker' in navigator) navigator.serviceWorker.register('sw-1.js').catch(()=>{});
 };
 </script>
 </body>
